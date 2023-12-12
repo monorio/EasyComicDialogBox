@@ -1,4 +1,14 @@
 这是一个易用的批量漫画对话框快速生成器，会在漫画底部快速生成一个白底对话框，并且根据字体长度自动调整字体大小以适应对话框大小。
+效果展示：
+![1](https://github.com/monorio/EasyComicDialogBox/assets/39545032/90a0a80c-bbae-4830-b735-3fca25ca5850)
+![2](https://github.com/monorio/EasyComicDialogBox/assets/39545032/869af741-0df9-4dc5-9b9a-b45fe0eb9bf8)
+
+不同字体
+![1](https://github.com/monorio/EasyComicDialogBox/assets/39545032/614a8292-e753-4a1a-99e0-9f22a003a9b7)
+![2](https://github.com/monorio/EasyComicDialogBox/assets/39545032/43e39ca2-4729-46bb-b747-d96f44d73111)
+
+
+
 
 其中，gui_app.exe和gui_app_CHN.exe可以直接下载到WINDOWS系统下使用（其它系统未测试），无须其它依赖文件。但要注意的是，项目中的favicon.ico![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/67a4f19e-1824-48fd-b9e3-1f5e92f6a73f) 图标需要和exe文件在同一文件夹下，否则报错，这是图标文件，对功能没有影响。
 
@@ -30,4 +40,4 @@ gui_app_CHN.exe 使用教程(gui_app.exe同理)：
 1. 本项目对特殊字符支持有限，可能会显示方框，可能和字体库支持有关。
 2.  对英文的支持较差，效果有限，中文效果较好。初步判断是英文字符占用单位较少，之后可能会更新版本。
 
-3.  
+   
