@@ -7,7 +7,7 @@ Effect:
 ![1](https://github.com/monorio/EasyComicDialogBox/assets/39545032/90a0a80c-bbae-4830-b735-3fca25ca5850)
 ![2](https://github.com/monorio/EasyComicDialogBox/assets/39545032/869af741-0df9-4dc5-9b9a-b45fe0eb9bf8)
 
-不同字体
+Different Font type:
 ![1](https://github.com/monorio/EasyComicDialogBox/assets/39545032/614a8292-e753-4a1a-99e0-9f22a003a9b7)
 ![2](https://github.com/monorio/EasyComicDialogBox/assets/39545032/43e39ca2-4729-46bb-b747-d96f44d73111)
 
