@@ -30,9 +30,14 @@ gui_app_CHN.exe 使用教程(gui_app.exe同理)：
 重要！！！：
 1.favicon.ico不得移除，否则会报错。或者可以使用其它ico文件替代。
 2.重要的步骤，对script.txt内容的编排，也就是图片对应脚本文件的设置。
-2.1 以本项目中的demo文件夹举例
-2.2 生成图片的目录中必须创建一个名字为 script.txt的文件，如图所示
+
+2.1 
+以本项目中的demo文件夹举例
+
+2.2 
+生成图片的目录中必须创建一个名字为 script.txt的文件，如图所示
 ![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/a281f992-ba38-44e7-8ae7-5344e4e31c96)
+
 2.3
 每个图片的脚本对应阿拉伯数字+p的格式，如果一张图片有多个段落，可以换行，不同图片脚本空一行隔开。具体如图片所示，也可以参考项目中的demo文件夹下的script.txt文件的格式编写脚本
 ![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/e2d2fc50-456e-4057-8927-d550d278cf48)
