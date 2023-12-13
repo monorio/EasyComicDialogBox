@@ -38,9 +38,10 @@ Important!!! :
 
 2.1 
 Take the demo folder in this project as an example.
+
 2.2 
-A file named script.txt must be created in the directory where the image is generated, as shown in the following figure.
-! [image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/a281f992-ba38-44e7-8ae7-5344e4e31c96)
+A file named script.txt must be created in the directory where the image is generated, as shown in the following figure. ! [image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/a281f992-ba38-44e7-8ae7-5344e4e31c96)
+
 2.3 
 The script of each image corresponds to the format of Arabic numerals + p. If an image has more than one paragraph, you can change the line, and separate the scripts of different images with an empty line. As shown in the picture, you can also refer to the script.txt file under the demo folder in the project to write the scripts.
 ! [image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/e2d2fc50-456e-4057-8927-d550d278cf48)
