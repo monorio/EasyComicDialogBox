@@ -48,7 +48,7 @@ The script of each image corresponds to the format of Arabic numerals + p. If an
 ![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/e2d2fc50-456e-4057-8927-d550d278cf48)
 
 PS:
-In addition to using the exe program, you can also use py files to run, the code has examples of usage. Re-development is also welcome.
+Instead of using the exe program, you can also use py files to run, the code has examples of usage. Re-development is also welcome.
 Problems unsolved:
 1. This project has limited support for special characters and may display boxes. May be related to font library support.
 2. Poor support for the English characters, the effect is limited, the effect of Chinese characters is better. Preliminary judgment is that the English characters occupy fewer units, the version of this app may be updated.
