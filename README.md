@@ -1,3 +1,6 @@
+[English](README_EN.md)
+
+
 这是一个易用的批量漫画对话框快速生成器，会在漫画底部快速生成一个白底对话框，并且根据字体长度自动调整字体大小以适应对话框大小。
 效果展示：
 ![1](https://github.com/monorio/EasyComicDialogBox/assets/39545032/90a0a80c-bbae-4830-b735-3fca25ca5850)
