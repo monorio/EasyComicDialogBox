@@ -17,10 +17,14 @@
 
 gui_app_CHN.exe 使用教程(gui_app.exe同理)：
 1. 运行程序
-2.点击浏览 ![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/37e6cea7-c0fa-4140-abdb-8560a83f0771)
-3. 定位到图片文件夹中选择文件夹![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/666aeca8-1766-4b93-9eb1-df4aac6e0f27)
-4. 调整字体缩放 (512*768缩放设置为-1.5效果较好，1920*180设置为0效果较好，可以根据自己情况调整) ![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/b9d7a592-dff5-4c45-8cef-b80aa258c9ee)
-5. 更换自己喜欢的字体，默认为等线中文，可以不调整。系统中没有等线中文字体的话，Windows 系统下到 C:/Windows/Fonts/ 右键ttf字体属性查看路径，复制对应字体路径。![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/84f43498-a34b-4242-9fdb-9a39dd0b87c3)
+2.点击浏览
+![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/37e6cea7-c0fa-4140-abdb-8560a83f0771)
+3. 定位到图片文件夹中选择文件夹
+![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/666aeca8-1766-4b93-9eb1-df4aac6e0f27)
+4. 调整字体缩放 (512*768缩放设置为-1.5效果较好，1920*180设置为0效果较好，可以根据自己情况调整)
+![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/b9d7a592-dff5-4c45-8cef-b80aa258c9ee)
+5. 更换自己喜欢的字体，默认为等线中文，可以不调整。系统中没有等线中文字体的话，Windows 系统下到 C:/Windows/Fonts/ 右键ttf字体属性查看路径，复制对应字体路径。
+![image](https://github.com/monorio/EasyComicDialogBox/assets/39545032/84f43498-a34b-4242-9fdb-9a39dd0b87c3)
 6. 点击执行按钮完成对话框制作，完成后的图片在图片文件夹下的output目录中
 
 额外功能：
